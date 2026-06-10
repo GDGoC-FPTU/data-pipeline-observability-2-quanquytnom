@@ -29,4 +29,4 @@ Agent sai vi khong co buoc validation, coi toan bo garbage data la hop le. Outli
 
 **Quality Data > Quality Prompt?** (Dong y hay khong? Giai thich ngan gon.)
 
-Dong y. Du prompt co viet hoan hao den dau, neu du lieu dau vao la rac thi agent van tra loi sai, vi cau tra loi duoc rut ra truc tiep tu du lieu chu khong phai tu prompt. Cung mot logic agent: voi clean data (da qua validate/transform) thi tra loi dung, con voi garbage data thi sai hoan toan. Vi vay chat luong du lieu la nen tang — mot pipeline ETL co validation tot quan trong hon viec toi uu prompt.
+Agree, on the processed data, agent works well with it, but fails with the garbage data.
